@@ -6,15 +6,34 @@
 Welcome to Sphinx Template's documentation!
 ===========================================
 
+.. image:: ./imgs/scienceRL-Cover.jpg
+   :alt: Description of the image
+   :width: 50% 
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Setup:
+
+   sections/setup/installation
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Usage:
+
+   sections/usage/getting_started
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Misc:
+
+   sections/misc/demo
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
