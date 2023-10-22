@@ -22,6 +22,7 @@ Welcome to Sphinx Template's documentation!
    :caption: Usage:
 
    sections/usage/getting_started
+   sections/usage/vim
 
 .. toctree::
    :maxdepth: 2
